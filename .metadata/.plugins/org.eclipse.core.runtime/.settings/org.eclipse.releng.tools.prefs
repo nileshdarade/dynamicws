@@ -1,5 +1,0 @@
-eclipse.preferences.version=1
-org.eclipse.releng.tools.copyrightTemplate=\# Copyright 2016 Intellisis Inc.  All rights reserved.\n\#\n\# Use of this source code is governed by a BSD-style\n\# license that can be found in the LICENSE file
-org.eclipse.releng.tools.ignoreProperties=true
-org.eclipse.releng.tools.replaceAllExisting=true
-org.eclipse.releng.tools.useDefaultRevisionYear=true
