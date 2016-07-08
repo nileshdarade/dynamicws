@@ -1,0 +1,9 @@
+
+public class BookImpl implements Book{
+
+	public String get() {
+		// TODO Auto-generated method stub
+		return "I'm library from default package";
+	}
+
+}

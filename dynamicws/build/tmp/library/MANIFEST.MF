@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Implementation-Title: Library
+Implementation-Version: 1.0
+Main-Class: com.nilesh.dynamicws.Library
+
