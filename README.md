@@ -34,13 +34,13 @@ copy jar from `build/libs` to directory `dynamicws/build/libs` directory
 Now you can execute
 
 ###Following two api's 
-1.http://localhost:4567/library
-2.http://localhost:4567/library?jarName=book1.1.jar&className=com.nilesh.dynamicws.BookImpl_1_1
+1.[http://localhost:4567/library](http://localhost:4567/library)
+2.[http://localhost:4567/library?jarName=book1.1.jar&className=com.nilesh.dynamicws.BookImpl_1_1](http://localhost:4567/library?jarName=book1.1.jar&className=com.nilesh.dynamicws.BookImpl_1_1)
 
 For new code create new jar and add follow same proccess, I create book1.1.jar, book1.2.jar and book1.3.jar fore reference
 
-3.http://localhost:4567/library?jarName=book1.2.jar&className=com.nilesh.dynamicws.BookImpl_1_2
-4.http://localhost:4567/library?jarName=book1.3.jar&className=com.nilesh.dynamicws.BookImpl_1_3
+3.[http://localhost:4567/library?jarName=book1.2.jar&className=com.nilesh.dynamicws.BookImpl_1_2](http://localhost:4567/library?jarName=book1.2.jar&className=com.nilesh.dynamicws.BookImpl_1_2)
+4.[http://localhost:4567/library?jarName=book1.3.jar&className=com.nilesh.dynamicws.BookImpl_1_3](http://localhost:4567/library?jarName=book1.3.jar&className=com.nilesh.dynamicws.BookImpl_1_3)
 
  Process to create new jar cd to book1.1 project
  change the name of the module in settings.gradle file
