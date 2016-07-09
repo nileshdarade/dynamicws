@@ -29,8 +29,9 @@ prerequisites are [Git](https://help.github.com/articles/set-up-git) and JDK 1.8
 ### compile and test, build all jars
 `gradle jar`
 
-### copy jar from `build/libs` to directory `dynamicws/build/libs` directory
-###Now youc an execute
+copy jar from `build/libs` to directory `dynamicws/build/libs` directory
+
+Now you can execute
 
 ###Following two api's 
 1.http://localhost:4567/library
