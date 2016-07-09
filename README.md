@@ -51,10 +51,8 @@ For new code create new jar and add follow same proccess, I create book1.1.jar, 
 
 
 ##License
-The `gradle-one-jar` build plugin is released under version 2.0 of the
-[Apache License](http://www.apache.org/licenses/LICENSE-2.0). Distributions
-built with this plugin are subject to the terms set forth
-[here](http://one-jar.sourceforge.net/index.php?page=documents&file=license).
-The One-JAR license is a BSD-style license. Compliance with this license is
-assured by including the one-jar-license.txt file in the One-JAR archive, which
+The `dynamicws` build plugin is released under The MIT License (MIT)
+[MIT License](https://github.com/nileshdarade/dynamicws/blob/master/LICENSE). Distributions
+Compliance with this license is
+assured by including the https://github.com/nileshdarade/dynamicws/blob/master/LICENSE file in the dynamicws archive, which
 this plugin does automatically.
